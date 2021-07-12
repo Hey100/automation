@@ -1,5 +1,5 @@
-import org.openqa.Selenium.By;
-import org.openqa.Selenuim.WebDriver;
+import org.openqa.selenium.By;
+import org.openqa.selenuim.WebDriver;
 import org.openqa.selenium.WindowType;
 import org.openqa.selenium.chrome.ChromeDriver;
 
