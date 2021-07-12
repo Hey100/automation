@@ -3,6 +3,5 @@ Selenium 4 Standalone Required
 Eclipse or Visual Studio Code Compatible
 Chrome Driver
 
-Step Up
-Directly Upload the script on either VS Code oe Eclipse
+Directly Upload the script on either VS Code or Eclipse
 Run the code
